@@ -15,6 +15,12 @@ npm run start
 ```
 Open http://localhost:3000 with your browser to see the result.
 
+## DEMO:-
+
+https://user-images.githubusercontent.com/64348740/184538317-09fb1b21-c8c6-4e51-ac48-e898c133a883.mp4
+
+## SNAPS:-
+
 ![image](https://user-images.githubusercontent.com/64348740/180597330-ae5c55ce-f272-452b-9008-f900f499c5b4.png)
 
 ![image](https://user-images.githubusercontent.com/64348740/180597348-b1d1a110-fd3e-4828-9ff3-b7e5af892a49.png)
